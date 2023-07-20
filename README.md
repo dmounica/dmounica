@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dmounica
+- 👀 I’m interested in anything that deals with DATA
+- 🌱 I’m currently learning how to use GitHub :)
